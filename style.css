@@ -1,1 +1,10 @@
-
+body{
+    background-color: aqua(209, 209, 236);
+}
+header{
+    background-color: black(114, 245, 245);
+}
+main{
+    background-color: aquamarine;
+}
+    
