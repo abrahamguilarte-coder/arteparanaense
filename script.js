@@ -6,5 +6,4 @@ function mostrarMensagem(){
     "voce acabou de criar uma interaçao  com JavaScript";
 
 }
-    
-
+         
