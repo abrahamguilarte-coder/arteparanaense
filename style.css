@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #f4f1ea;
     color: darkgray;
     font-family: Arial, sans-serif;
@@ -50,4 +50,25 @@ figcaption {
     font-size: 14px;
     color: #555555;
     margin-top: 8px;
+}
+
+button {
+    background-color: green;
+    color: red;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: aquamarine;
+
+}
+
+.curtir {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
 }
