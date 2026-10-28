@@ -1,26 +1,26 @@
 :root{
     --cor-fundo:#612222;
     --cor-texto:#1d1c18;
-    --cor-principal:#bd8bb0;.tema-escuro {
+    --cor-principal:#45838b;.tema-escuro {
     --cor-fundo: #121212;
     --cor-texto: #f5f5f5;
-    --cor-principal: #d7a6ca;
+    --cor-principal: #312a3a;
     --cor-superficial: #1e1e1e;
     --cor-card: #2b2530;
 }
     --cor-secundaria:#6e1855;
-    --cor-hover:#c383f5;
+    --cor-hover:#23162e;
     --cor-superficie:white;
-    --cor-card:#9b87a0;
+    --cor-card:#462332;
     --cor-legenda:#c41e1e;
     --cor-clara:#d82e2e00;
-    --cor-rodape:#e28686;
+    --cor-rodape:#c5b41e;
 
 }
 .tema-escuro {
     --cor-fundo: #121212;
-    --cor-texto: #e6d5d5;
-    --cor-principal: #d7a6ca;
+    --cor-texto: #8bbb5d;
+    --cor-principal: #3a132f;
     --cor-superficial: #1e1e1e;
     --cor-card: #2b2530;
 }
